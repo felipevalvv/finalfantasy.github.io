@@ -1,0 +1,16 @@
+nav{
+    text-align: left;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5;
+    padding-right: 5;
+    font-weight: bold;
+    letter-spacing: 900;
+    font-size: 25px;
+    background: #1897db2f;
+}
+
+ul li{
+    display: inline-block;
+
+}
